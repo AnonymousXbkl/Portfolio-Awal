@@ -1,0 +1,50 @@
+/* Body */
+/* body {
+    margin-top: 210px;
+} */
+
+section {
+    padding-top: 5rem;
+}
+
+#home {
+    padding-top: 1rem;
+}
+
+
+/* Navbar */
+.logoNavbar {
+    background-image: url(./img/Logo\ JYL.png);
+    position: relative;
+
+
+}
+.navbar-nav a {
+    margin-right: 20px;
+}
+
+.navbar {
+    padding-top: -30px;
+    padding-bottom: -3px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(255,242,223);
+    
+}
+
+#portfolio {
+    background-color: #fff2df;
+}
+
+.footer {
+    background-color: #fff2df;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Mobile Version */
